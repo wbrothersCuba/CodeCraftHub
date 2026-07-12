@@ -37,7 +37,7 @@ Course data is stored locally in a JSON file called `courses.json`.
 ## 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/wbrothersCuba/CodeCraftHub.git
 cd codecrafthub
 ````
 
